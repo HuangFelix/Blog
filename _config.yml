@@ -3,7 +3,11 @@ highlighter: null
 permalink: /:title
 
 url: 
+<<<<<<< HEAD
 baseurl: "/Blog"
+=======
+baseurl: /Blog
+>>>>>>> 0295e828ec3a6f2916a42bf7417221f62c52bc3a
 
 redcarpet:
   extensions: [strikethrough, tables]
