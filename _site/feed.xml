@@ -3,16 +3,16 @@
   <channel>
     <title>Brume</title>
     <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/Blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>It's simple. It's easy to use. It's a Jekyll theme.</description>
     <language>en-us</language>
-    <pubDate>Wed, 28 May 2014 15:35:23 +0800</pubDate>
-    <lastBuildDate>Wed, 28 May 2014 15:35:23 +0800</lastBuildDate>
+    <pubDate>Wed, 28 May 2014 15:48:46 +0800</pubDate>
+    <lastBuildDate>Wed, 28 May 2014 15:48:46 +0800</lastBuildDate>
 
     
       <item>
         <title>Introduction</title>
-        <link>/first-post</link>
+        <link>/Blog/first-post</link>
         <pubDate>Wed, 28 May 2014 00:00:00 +0800</pubDate>
         <author>Aigars Dzerviniks</author>
         <description>&lt;p&gt;Thank to Git&amp;amp;GitHub,this is an exciting moment for me.&lt;br&gt;
