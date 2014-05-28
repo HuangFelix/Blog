@@ -2,7 +2,7 @@ markdown: redcarpet
 highlighter: null
 permalink: /:title
 
-url: /Blog
+url: 
 baseurl: /Blog
 
 redcarpet:
