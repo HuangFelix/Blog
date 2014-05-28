@@ -2,7 +2,7 @@
 title: FelixHuang
 email: huangfenghua_47@163.com
 description: "www change everything!"
-baseurl: ""
+baseurl: "/Blog"
 url: "http://yourdomain.com"
 
 # Build settings
