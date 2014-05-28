@@ -1,10 +1,13 @@
-# Site settings
-title: FelixHuang
-email: huangfenghua_47@163.com
-description: "www change everything!"
-baseurl: "/Blog"
-url: "http://yourdomain.com"
+markdown: redcarpet
+highlighter: null
+permalink: /:title
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+url: 
+baseurl: /Blog
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
